@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KiwiRblx/Source/refs/heads/main/kiwi_spawner0.txt"))()
